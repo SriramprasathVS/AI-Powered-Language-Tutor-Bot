@@ -14,7 +14,7 @@ This project is designed to help users learn and practice languages in a simple 
 ## 🚀 How to Run
 
 1. Clone this repository:
-     git clone https://github.com/sriramprasathvs/ai-language-tutor.git
+     git clone https://github.com/SriramprasathVS/ai-language-tutor.git
 
 ---
 
