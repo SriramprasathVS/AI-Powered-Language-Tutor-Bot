@@ -7,7 +7,7 @@ This project is designed to help users learn and practice languages in a simple 
 
 ## 📂 Project Structure
 
-- `index.html` → Main project file (rename your uploaded file `AI LANGUAGE TUTOR.html` to `index.html` before hosting with GitHub Pages).
+- `index.html` → Main project file 
 
 ---
 
