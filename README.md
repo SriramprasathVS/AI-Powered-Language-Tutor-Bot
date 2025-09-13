@@ -13,9 +13,7 @@ This project is designed to help users learn and practice languages in a simple 
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-     git clone https://github.com/SriramprasathVS/AI-Powered-Language-Tutor-Bot.git
-
+1. https://sriramprasathvs.github.io/AI-Powered-Language-Tutor-Bot/
 ---
 
 ⚒️Features
