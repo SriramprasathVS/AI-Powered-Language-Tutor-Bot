@@ -20,16 +20,16 @@ This project is designed to help users learn and practice languages in a simple 
 
 ⚒️Features
 
-Easy-to-use interface
-Designed for language learning and practice
-Lightweight and runs directly in the browser
+•Easy-to-use interface
+•Designed for language learning and practice
+•Lightweight and runs directly in the browser
 
 ---
 
 🤝 Contributing
 
-Feel free to fork this repo and improve the project.
-Pull requests are welcome!
+•Feel free to fork this repo and improve the project.
+•Pull requests are welcome!
 
 ---
 
